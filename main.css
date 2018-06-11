@@ -1,0 +1,258 @@
+#pagewrapper{
+ border:5px ridge black;
+}    
+
+body{
+    color:#000000;
+    background-image:url("images/tiled1.jpg");
+    margin: 0 auto;
+}
+
+#formregister{
+    text-align:center;
+    border:2px ridge;
+    border-radius:10px;
+    width:600px;
+    margin:0 auto;
+    position:center;
+    background-color:#068720;
+}
+
+.loginlabels{
+    text-align:left;
+    font:bold 22px Arial;
+    width:100%;
+    padding-bottom:20px;
+}
+
+#headerWrapper{
+    background-color:#D6CBB3;
+    border:5px ridge blue;
+    height:150px;
+}
+
+.header{ 
+ width: auto;   
+ height:150px;
+}
+
+#logo{
+    position:relative;
+    left:1270px;
+    top:35px;
+}
+
+#title{  
+    position: relative;
+    width:1020px;
+    left:225px;
+    top:-80px;
+    color:#068720;
+    font:bold 50px Castellar; 
+}
+
+#main{  
+   text-align:center;
+   position:relative; 
+   margin-top:-22px;
+   margin-left:auto;
+   margin-right:auto;
+   background-color:#068720;
+   height:460px; 
+   border: 5px solid black;
+   width:960px;
+}
+
+#mainLogin{  
+   position:relative; 
+   margin-top:-22px;
+   margin-left:auto;
+   margin-right:auto;
+   background-color:#068720;
+   height:460px; 
+   border: 5px solid black;
+   width:960px;
+}
+
+#formlogin{
+    top:500px;
+    border:2px ridge;
+    border-radius:10px;
+    width:500px;
+    margin:0 auto;
+    position:center;
+    height:200px;
+}
+
+#labelsLogin {
+    clear:left;
+    text-align:right;
+    padding-right:100px;
+    font: bold 18px Castellar;
+}
+
+#labelsLogin1 {
+    clear:left;
+    text-align:right;
+    padding-right:102px;
+    font: bold 18px Castellar;
+}
+
+#noAccount{
+    text-align:right;
+    margin-right:70px;
+    font:18px Tohoma;
+}
+
+.logintitle{
+    clear:left;
+    text-align:right;
+    padding-right:10px;
+    font: bold 14px Castellar;
+}
+
+#logout{
+   text-align:right; 
+   margin-right:50px; 
+}
+
+#loggedInAs1{
+   padding-right:70px;  
+}
+
+#loggedInAs2{
+   padding-right:70px;  
+}
+
+#loggedInAs3{
+   padding-right:70px;  
+}
+
+#mainArticleAdd{
+ text-align:center;   
+ margin:0 auto;   
+}
+
+textarea{
+    vertical-align:top;
+}
+
+#formarticleadd{
+    border:2px ridge;
+    border-radius:10px;     
+    width:675px;
+    margin:0 auto;
+    position:center;
+    background-color:#068720;
+}
+
+#articleTitle{
+ font-family:Castellar;
+}
+
+.errorList{
+    position:relative;
+    text-align:left;
+    color:#EB3514; 
+    margin-left:500px;
+    margin-bottom:0px;
+    width: 400px;
+    left:580px;
+    top:-300px;
+    font:bold 18px Times New Roman;
+}
+
+#articleAddErrorList {
+   position:relative; 
+   left:575px;
+   color:red;  
+   text-align:left;
+   font:bold 18px Times New Roman;
+   margin-left:460px;
+   top:-450px;
+}
+
+#logInId{
+    position: relative;
+    top:50px;
+    font:32px Tohoma;
+    text-align:center;
+    color:blue;
+}
+
+.links{
+    color:black;
+    font:bold 28px Castellar;
+    text-decoration:underline;
+}
+
+.loggedInAs{
+    font:bold 16px Castellar;
+}
+
+#bottomContainer{
+    top:-75px;
+    position:relative;
+    float:clear; 
+    margin: 0px 0px;
+}
+
+.articles{
+    border:inset;
+    width:960px;
+    text-align:left;
+    background-color:#99933D;
+}
+
+#individualArticle{
+    width:960px;
+    background-color:#99933D;
+    text-align:left;
+    border:outset black;
+    margin:10 0;
+}
+
+#submissionSuccessful{
+    font:bold 14px Arial;
+    text-align:center;
+}
+
+#commentContainer{
+   background-color:#068720;
+   text-align:left;
+   position:relative;
+   right:460px;
+   border:2px ridge;
+   border-radius:10px;
+   width:600px;
+   margin:0 auto;
+   background-color:#068720;
+}
+
+.commentID{
+    font:15px Times New Roman;
+    text-align:left;
+    border:outset black;
+    width:600px;
+    background-color:#B5E8CB;
+}
+
+.loginTitle2{
+    text-align:left;
+    }    
+    
+.loginTitle1{
+    text-align:center;
+    }    
+    
+#needAccount{
+font-size:150%; 
+padding-right:50px; 
+text-align:right;
+}
+
+#errorList1{
+    color:red;
+    font:bold 18px Times New Roman;
+    
+}
